@@ -1,4 +1,4 @@
-package com.evun.xutil;
+package com.evun.xutil.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
